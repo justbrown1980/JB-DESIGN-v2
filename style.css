@@ -55,5 +55,4 @@ body {
     font: var(--font-size) var(--font-family);
     width: calc(100vw - 10rem);
     margin: 0 auto;
-
 }
